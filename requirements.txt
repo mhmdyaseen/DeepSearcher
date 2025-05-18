@@ -1,0 +1,9 @@
+python-dotenv
+pydantic
+langgraph
+duckduckgo-search
+nest_asyncio
+trafilatura
+tenacity
+httpx
+requests
