@@ -7,7 +7,7 @@ from pydantic import BaseModel,Field
 load_dotenv()
 
 api_key=environ.get('api_key')
-llm=ChatGemini(model='model',api_key=api_key,temperature=0)
+llm=ChatGemini(model='gemini-2.0-flash-exp',api_key=api_key,temperature=0)
 
 input=input("Enter a query: ")
 agent=ResearcherAgent(search_mode='deep_search',max_queries=1,max_results=1,llm=llm)
