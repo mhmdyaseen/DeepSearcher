@@ -4,7 +4,7 @@
 
 <br>
 
-**DeepSearcher**  is an AI Agent designed to explore the Web and deliver in-depth information in response to user queries. This is mainly focused for Researchers and PhD students.
+**DeepSearcher**  is an AI Agent designed to explore the Web and deliver in-depth information in response to user queries. This is mainly focused for Researchers and PhD students. Note that this was developed quite back and there are many ways of improvement and new features. 
 
 ## Installation Steps
 
@@ -32,7 +32,3 @@ YOUR_API_KEY=""
 ## Contact
 For any queries or support, reach out to me:
 E-mail: <yaseenap0001@gmail.com>
-
-
-#### Note
-This was developed during the early days of Perplexity, and there are many ways of improvement and new features. 
